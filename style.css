@@ -8,8 +8,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 900px;
-    background: #354f52; /* New background color */
-    color: #fff; /* New text color */
+    background: #4a90e2; /* New background color */
+    color: #333; /* New text color */
     font-family: Arial, sans-serif;
 }
 
@@ -17,13 +17,13 @@ body {
 #headline {
     text-align: center;
     padding: 10px;
-    color: #ff5733; /* New heading text color */
+    color: #e67e22; /* New heading text color */
 }
 
 #headline {
     margin-bottom: 10px;
     text-decoration: underline;
-    color: #33ff57; /* New heading text color */
+    color: #e74c3c; /* New heading text color */
 }
 
 #tip_cal {
