@@ -17,13 +17,13 @@ body {
 #headline {
     text-align: center;
     padding: 10px;
-    color: #e67e22; /* New heading text color */
+    color: #0f0f0f; /* New heading text color */
 }
 
 #headline {
     margin-bottom: 10px;
     text-decoration: underline;
-    color: #e74c3c; /* New heading text color */
+    color: #0f0f0f; /* New heading text color */
 }
 
 #tip_cal {
@@ -42,12 +42,12 @@ form {
 .form-label {
     font-family: 'WildWest';
     font-size: 1.3rem;
-    color: #27ae60;
+    color: #0f0f0f;
 }
 
 .form-input {
     border: 2px solid #34495e;
     border-radius: 5px;
     padding: 5px;
-    color: #2c3e50;
+    color: #0f0f0f;
 }
