@@ -40,13 +40,14 @@ form {
 }
 
 .form-label {
+    color: #0f0f0f;
     font-family: 'WildWest';
     font-size: 1.3rem;
-    color: #0f0f0f;
+   
 }
 
 .form-input {
-    border: 2px solid #34495e;
+    border: 2px solid #0f0f0f;
     border-radius: 5px;
     padding: 5px;
     color: #0f0f0f;
