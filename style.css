@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 900px;
-    background: #E0E0E0; /* Light gray background color */
+    background: #F0F8FF; /* Light cyan background color */
     background-size: 100% 50%;
     background-repeat: no-repeat;
 }
@@ -24,7 +24,7 @@ body {
 }
 
 #tip_cal {
-    background-color: #FFFFFF; /* White background for #tip_cal */
+    background-color: #F5A623; /* Orange background for #tip_cal */
     padding: 35px;
     border-radius: 8px;
 }
@@ -41,6 +41,6 @@ form {
 }
 
 .form-input {
-    border: 2px solid #999; /* Light gray border color for .form-input */
+    border: 2px solid #4A90E2; /* Blue border color for .form-input */
     border-radius: 5px;
 }
