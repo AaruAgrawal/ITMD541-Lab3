@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 900px;
-    background: #006699;
+    background: #ff6600; /* Change the background color */
     background-size: 100% 50%;
     background-repeat: no-repeat;
 }
@@ -17,7 +17,7 @@ body {
 #headline {
     text-align: center;
     padding: 10px;
-    color: #FFFFFF; /* Change text color to white */
+    color: #fff; /* Change the text color */
 }
 
 #headline {
@@ -26,7 +26,7 @@ body {
 }
 
 #tip_cal {
-    background-color: White;
+    background-color: #ffffff; /* Change the background color */
     padding: 35px;
     border-radius: 8px;
 }
@@ -40,11 +40,10 @@ form {
 .form-label {
     font-family: 'WildWest';
     font-size: 1.3rem;
-    color: #000000; /* Change text color to black */
+    color: #000; /* Change the text color */
 }
 
 .form-input {
-    border: 2px solid black;
+    border: 2px solid #000; /* Change the border color */
     border-radius: 5px;
-    color: #000000; /* Change text color to black */
 }
